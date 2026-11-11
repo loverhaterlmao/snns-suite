@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="S&amp;NS Suite">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0e11"/><stop offset="1" stop-color="#12161b"/></linearGradient>
+    <radialGradient id="la" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#f2484f" stop-opacity=".55"/><stop offset="1" stop-color="#f2484f" stop-opacity="0"/></radialGradient>
+    <radialGradient id="lb" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#7c5cff" stop-opacity=".45"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#ffffff"/><stop offset="1" stop-color="#f2484f"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f2484f"/><stop offset="1" stop-color="#7c5cff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+    <clipPath id="r"><rect width="1280" height="320" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1280" height="320" fill="url(#bg)"/><rect width="1280" height="320" fill="url(#grid)"/>
+    <circle cx="1010" cy="70" r="300" fill="url(#la)"><animate attributeName="cx" values="1010;930;1010" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="70;120;70" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="1180" cy="300" r="260" fill="url(#lb)"><animate attributeName="cx" values="1180;1100;1180" dur="17s" repeatCount="indefinite"/></circle>
+    <g transform="translate(980 62)" fill="none" stroke="url(#line)" stroke-width="2" stroke-linejoin="round" opacity=".9">
+      <path d="M100 0l100 56v112l-100 56L0 168V56z"><animateTransform attributeName="transform" type="rotate" values="0 100 112;6 100 112;0 100 112" dur="12s" repeatCount="indefinite"/></path>
+      <path d="M100 0v112M0 56l100 56 100-56M100 112v112" opacity=".55"/>
+      <circle cx="100" cy="112" r="7" fill="#f2484f" stroke="none"><animate attributeName="r" values="7;10;7" dur="3s" repeatCount="indefinite"/></circle>
+    </g>
+    <text x="72" y="150" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="78" font-weight="800" letter-spacing="-2.5" fill="url(#ink)">S&amp;NS Suite</text>
+    <rect x="74" y="178" width="96" height="5" rx="2.5" fill="url(#line)"><animate attributeName="width" values="96;190;96" dur="6s" repeatCount="indefinite"/></rect>
+    <text x="74" y="228" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="27" fill="#aeb8c0">Every Sick &amp; Nexra Studios project, in one place</text>
+    <text x="74" y="276" font-family="ui-monospace,Consolas,Menlo,monospace" font-size="17" fill="#6b7780">snns.dev  ·  Sick &amp; Nexra Studios</text>
+  </g>
+</svg>
