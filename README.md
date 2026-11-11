@@ -15,6 +15,20 @@
 
 <br>
 
+<!-- v2:a -->
+<table>
+<tr>
+<td width="150" align="center"><img src="./assets/logo.svg" width="120" alt="S&amp;NS"></td>
+<td>
+<b>S&amp;NS for Windows</b>: a small window onto snns.dev with its own icon, its own start screen, and a frame that takes the app's colour.<br><br><a href="https://github.com/loverhaterlmao/snns-suite/releases/latest"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-for%20Windows-ff2d2d?style=for-the-badge&labelColor=12161b"></a>
+<br><br><b>On a phone:</b> open <a href="https://snns.dev">snns.dev</a> in your browser and choose <i>Add to Home Screen</i> (iPhone: the Share button; Android: the menu, then <i>Install app</i>).
+</td>
+</tr>
+</table>
+<!-- /v2:a -->
+
+
+
 Sick & Nexra Studios (S&NS) makes a small family of tools. This page says what each one is, where to open it, and how
 to get in. The source code of every project is closed; these repositories hold the guides, the terms and the place to
 report problems.
@@ -28,6 +42,72 @@ report problems.
 | **Ink** | A document editor that measures how text was written and says exactly what it measured. | [wrote.ink](https://wrote.ink) |
 
 The studio's own page is [snns.dev](https://snns.dev).
+
+<!-- v2:b -->
+## What we are for
+
+**Knowledge should be free.** Not the slogan: the practice. Everything we learn building these tools that would
+help someone else build theirs gets written down in the open, in plain words: how to use them, how they are kept
+safe, what they measure and what they do not. We keep a free way into our tools wherever we can. Nobody should be
+kept from learning to make things by what is in their pocket.
+
+**Strive for your best.** We build for the person in the middle of making something, trying to make it good. So
+the tools do the work properly instead of looking like they did: they run what they build, check it, and say
+plainly when something is unknown or did not work.
+
+**Chase better, and never settle for less.** None of this is finished and we do not pretend it is. When something
+here is not good enough we rebuild it until it is. That is the standard we hold ourselves to, and the one we hope
+the tools help you hold yourself to.
+
+A fair question: if knowledge should be free, why is the source closed? Because the *knowledge* is in what the
+tools teach and what we publish about how they work, and that is open. The code is how a small studio keeps the
+lights on. We would rather say that plainly than pretend otherwise.
+
+## The projects
+
+<table>
+<tr>
+<td width="110" align="center"><a href="https://github.com/loverhaterlmao/noetic-suite"><img src="./assets/noetic.png" width="84" alt="Noetic Suite"></a></td>
+<td><b><a href="https://github.com/loverhaterlmao/noetic-suite">Noetic Suite</a></b> &nbsp;·&nbsp; <a href="https://noetic.lol">noetic.lol</a><br>One AI assistant with a whole studio behind it. Ask in a sentence and get it finished: a game, a site, a document, a picture.<br><a href="https://github.com/loverhaterlmao/noetic-suite">Repository</a> · <a href="https://github.com/loverhaterlmao/noetic-suite/releases/latest">Release notes</a></td>
+</tr>
+<tr>
+<td width="110" align="center"><a href="https://github.com/loverhaterlmao/claw"><img src="./assets/claw.png" width="84" alt="Claw"></a></td>
+<td><b><a href="https://github.com/loverhaterlmao/claw">Claw</a></b> &nbsp;·&nbsp; <a href="https://sick.cat">sick.cat</a><br>Private code workspaces your AI can write to, with cloud sandboxes, real terminals, a built-in copilot and a command-line tool.<br><a href="https://github.com/loverhaterlmao/claw">Repository</a> · <a href="https://github.com/loverhaterlmao/claw/releases/latest">Windows app</a></td>
+</tr>
+<tr>
+<td width="110" align="center"><a href="https://github.com/loverhaterlmao/sykbot"><img src="./assets/sykbot.png" width="84" alt="Sykbot"></a></td>
+<td><b><a href="https://github.com/loverhaterlmao/sykbot">Sykbot</a></b> &nbsp;·&nbsp; <a href="https://sykbot.com">sykbot.com</a><br>Discord server management: moderation, verification, anti-raid, tickets and logging, all set up inside Discord.<br><a href="https://github.com/loverhaterlmao/sykbot">Repository</a> · <a href="https://github.com/loverhaterlmao/sykbot/releases/latest">Windows app</a></td>
+</tr>
+<tr>
+<td width="110" align="center"><a href="https://github.com/loverhaterlmao/beat-rip"><img src="./assets/beatrip.png" width="84" alt="Beat.rip"></a></td>
+<td><b><a href="https://github.com/loverhaterlmao/beat-rip">Beat.rip</a></b> &nbsp;·&nbsp; <a href="https://beat.rip">beat.rip</a><br>A username checker for 57 platforms and every popular domain, asked of each platform itself.<br><a href="https://github.com/loverhaterlmao/beat-rip">Repository</a> · <a href="https://github.com/loverhaterlmao/beat-rip/releases/latest">Windows app</a></td>
+</tr>
+<tr>
+<td width="110" align="center"><a href="https://github.com/loverhaterlmao/ink"><img src="./assets/ink.png" width="84" alt="Ink"></a></td>
+<td><b><a href="https://github.com/loverhaterlmao/ink">Ink</a></b> &nbsp;·&nbsp; <a href="https://wrote.ink">wrote.ink</a><br>A document editor that measures how text was written and says exactly what it measured.<br><a href="https://github.com/loverhaterlmao/ink">Repository</a> · <a href="https://github.com/loverhaterlmao/ink/releases/latest">Windows app</a></td>
+</tr>
+</table>
+
+Each has its own repository with its own page, licence, terms and releases. This one is the map.
+
+## How it started
+
+The studio's first tool was Claw, and Claw began as a fix for one annoyance: getting code *out* of AI chat.
+Providers such as Venice would write a whole project and leave you to copy it out by hand, with no download and no
+connector to an editor. Claw gave the AI somewhere to write the files directly, so what it wrote ended up in your
+hands as working files. [The longer version](https://github.com/loverhaterlmao/claw#where-claw-came-from). The same stubbornness runs through
+the rest: a name checker that asks each platform itself instead of guessing, an editor that says exactly what it
+measured, an assistant that runs what it builds before it hands it over.
+
+<img src="./assets/app.svg" alt="The S&NS desktop app on its start screen" width="100%">
+
+Every project has a small Windows app: the same site in its own window, with its own icon and start screen.
+Get each from its repository's releases. The S&NS one is [here](https://github.com/loverhaterlmao/snns-suite/releases/latest).
+
+## The small print
+
+[Terms of use](TERMS.md) · [Privacy](PRIVACY.md) · [Acceptable use](ACCEPTABLE_USE.md) · [Licence](LICENSE) · [Everything legal, in one page](LEGAL.md)
+<!-- /v2:b -->
 
 ## Who we are taking on right now
 
