@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://snns.dev"><img alt="open: snns.dev" src="https://img.shields.io/badge/open-snns.dev-f2484f?style=for-the-badge&labelColor=12161b"></a>
-<img alt="access: by invitation" src="https://img.shields.io/badge/access-by%20invitation-232a2f?style=for-the-badge&labelColor=12161b">
+<img alt="access: open to everyone" src="https://img.shields.io/badge/access-open%20to%20everyone-232a2f?style=for-the-badge&labelColor=12161b">
 <a href="./LICENSE"><img alt="source: closed" src="https://img.shields.io/badge/source-closed-232a2f?style=for-the-badge&labelColor=12161b"></a>
 <a href="./SUPPORT.md"><img alt="support: a real person" src="https://img.shields.io/badge/support-a%20real%20person-232a2f?style=for-the-badge&labelColor=12161b"></a>
 </p>
