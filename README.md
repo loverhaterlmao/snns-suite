@@ -109,26 +109,19 @@ Get each from its repository's releases. The S&NS one is [here](https://github.c
 [Terms of use](TERMS.md) · [Privacy](PRIVACY.md) · [Acceptable use](ACCEPTABLE_USE.md) · [Licence](LICENSE) · [Everything legal, in one page](LEGAL.md)
 <!-- /v2:b -->
 
-## Who we are taking on right now
+## Open to everyone
 
-Noetic Suite is open **by invitation** while it is new. We are saying yes to:
+Noetic Suite is open: anyone can create a free account. The free plan has a daily limit of requests, and paid plans
+lift it. What we still do not want is bulk sign-ups, resellers, or accounts made to probe the service.
 
-- **small developers** and people making their first real project;
-- people who **genuinely need the tool** for something they are trying to finish;
-- people willing to **test it and tell us what broke**, plainly.
-
-We are not taking bulk sign-ups, resellers, or accounts made to probe the service. If that sounds like a fit, apply on
-the front page of [noetic.lol](https://noetic.lol): say who you are and what you would use it for. A person reads
-every application. If it is a fit you get an invitation by email with a link to make your account.
+[snns.dev](https://snns.dev), [noetic.lol](https://noetic.lol) and [beat.rip](https://beat.rip) are written in 18
+languages (English, Spanish, Portuguese, French, German, Italian, Dutch, Polish, Turkish, Russian, Ukrainian, Arabic, Hindi, Indonesian, Vietnamese, Japanese, Korean and Chinese); your browser's own language is chosen for you.
 
 ## Getting in, step by step
 
-1. **Apply** at [noetic.lol](https://noetic.lol) (the form at the foot of the page).
-2. **Wait for the invitation.** It is tied to the email address you applied with and is good for two weeks.
-3. **Make your account** from the link. Use a password of ten characters or more, or, if your invitation address is
-   your GitHub or Google address, use "Continue with GitHub" or "Continue with Google" once those are switched on.
-4. **Secure it** (user menu → *Sign-in and security*): add an authenticator app or a passkey.
-5. **Start.** [TUTORIALS.md](TUTORIALS.md) walks through the first hour.
+1. **Create a free account** at [noetic.lol](https://noetic.lol): an email address and a password, or a GitHub account.
+2. **Secure it** (user menu → *Sign-in and security*): add an authenticator app or a passkey.
+3. **Start.** [TUTORIALS.md](TUTORIALS.md) walks through the first hour.
 
 ## The desktop app (Windows)
 
