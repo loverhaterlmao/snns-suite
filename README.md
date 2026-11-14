@@ -156,6 +156,8 @@ Write to **support@snns.dev**, use the form at [noetic.lol/support](https://noet
 **user menu → Contact support**. Problems with these guides can be opened as issues here. Do not put passwords,
 keys or personal details in an issue.
 
+Security and coding news, and what we ship, go out on X: [@SNNSES](https://x.com/SNNSES).
+
 ## The API in one breath
 
 ```bash
