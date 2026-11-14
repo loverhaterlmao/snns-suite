@@ -114,7 +114,7 @@ Get each from its repository's releases. The S&NS one is [here](https://github.c
 Noetic Suite is open: anyone can create a free account. The free plan has a daily limit of requests, and paid plans
 lift it. What we still do not want is bulk sign-ups, resellers, or accounts made to probe the service.
 
-[snns.dev](https://snns.dev), [noetic.lol](https://noetic.lol) and [beat.rip](https://beat.rip) are written in 18
+[snns.dev](https://snns.dev), [noetic.lol](https://noetic.lol), [beat.rip](https://beat.rip) and [wrote.ink](https://wrote.ink) are written in 18
 languages (English, Spanish, Portuguese, French, German, Italian, Dutch, Polish, Turkish, Russian, Ukrainian, Arabic, Hindi, Indonesian, Vietnamese, Japanese, Korean and Chinese); your browser's own language is chosen for you.
 
 ## Getting in, step by step
